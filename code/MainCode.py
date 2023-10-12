@@ -10,6 +10,9 @@ import math
 import time
 from TableCreate import *
 
+#Please comment out this line after the first time running
+create_tables()
+
 #Wall class for creating wall objects.
 class Wall():
     def __init__(self,x,y,disappearing):
