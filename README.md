@@ -1,4 +1,4 @@
-A top-down dungeon-crawler created with PyGame. Complete with character animations, minigames, saving progress and more!
+A top-down dungeon crawler created with PyGame. Complete with character animations, minigames, saving progress and more!
 This was my A-Level Computer Science Project (completed between 2017 and 2019.) 
 Repository includes the source code, animation images, and the full project report.
 
